@@ -1,7 +1,16 @@
 # tic-tac-toe
 <h3>1. How to install</h3>
-<code>yarn start</code>
-<h3>2. What have been done</h3>
+<p><code>yarn install</code>
+ or 
+<code>npm install</code></p>
+
+
+<h3>2. How to run the application</h3>
+<p><code>yarn start</code>
+ or 
+<code>npm start</code></p>
+
+<h3>3. What have been done</h3>
 <p>Tic-tac-toe game in React Native version for 2 players.</p>
 
 - Allow 2 players to play tic tac toe (Follow the rules of tic-tac-toe).
